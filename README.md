@@ -3,7 +3,7 @@ The raw data and figure plotting source code contained in this repository are us
 Due to confidentiality requirements associated with the project, it is not currently feasible to make the source code publicly available. Once the confidentiality period expires, we are eager to share the source code. In the meantime, if readers have any questions or need further discussion, please feel free to reach out to us via email or leave a message in the repository.
 
 ---
-### **Important note**: 
+### Important note: 
 
 * Please contact the corresponding author to request authorization when you use this source data in published papers.
 
@@ -11,7 +11,7 @@ Due to confidentiality requirements associated with the project, it is not curre
 * Due to file size limitations, some source data is uploaded in compressed format. Please decompress and run.
 
 ---
-### Dependencies
+### Dependencies：
 * Python: 3.12.3
 * numpy: 1.24.1
 * matplotlib: 3.7.2
