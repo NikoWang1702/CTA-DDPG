@@ -5,7 +5,7 @@
 ---
 ### Important note: 
 
-* Please contact the corresponding author to request authorization when you use this source data in published papers.
+* Please contact the corresponding author to request authorization when you use this source code in published papers.
 
   E-mail: jason@wavenet.cycu.edu.tw
 * Due to file size limitations, some source data is uploaded in compressed format. Please decompress and run.
