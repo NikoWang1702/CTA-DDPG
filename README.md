@@ -6,5 +6,13 @@ Due to confidentiality requirements associated with the project, it is not curre
 
 E-mail: jason@wavenet.cycu.edu.tw
 
+---
 
 ### Dependencies
+* Python: 3.12.3
+* numpy: 1.24.1
+* matplotlib: 3.7.2
+* torch: 2.0.1 with cuda118
+* pandas: 2.1.3
+* tqdm: 4.66.4
+* sympy: 1.11.1
