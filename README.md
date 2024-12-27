@@ -1,8 +1,9 @@
 # CTA-DDPG
+---
 * The raw data and figure plotting source code contained in this repository are used to evaluate the performance of CTA-DDPG algorithm proposed in the manuscript entitled "Collaborative Twin Actors Framework Using Deep Deterministic Policy Gradient for Flexible Batch Processes" submitted to Neural Networks with Paper ID "NEUNET-D-24-02400".
 * Due to confidentiality requirements associated with the project, it is not currently feasible to make the source code publicly available. Once the confidentiality period expires, we are eager to share the source code. In the meantime, if readers have any questions or need further discussion, please feel free to reach out to us via email or leave a message in the repository.
 
----
+--
 ### Important notes: 
 
 * Please contact the corresponding author to request authorization when you use this source code in published papers.
@@ -10,7 +11,7 @@
   E-mail: jason@wavenet.cycu.edu.tw
 * Due to file size limitations, some of the source data was uploaded in compressed format. Please decompress them and run.
 
----
+--
 ### Dependencies：
 * Python: 3.12.3
 * numpy: 1.24.1
